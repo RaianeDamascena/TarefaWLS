@@ -38,6 +38,10 @@ Os botões A e B utilizam interrupções para alternar o estado dos LEDs corresp
 ### Protocolo de Comunicação
 A comunicação com o display é realizada por meio do protocolo I2C, com endereço padrão de 0x3C.
 
+## Link do Video de  Funcionamento do codigo na placa Bitdoglab ##
+
+https://drive.google.com/file/d/1Qp-xaxh4JzSMdVmuB-H0DJsmZBgYF3nd/view?usp=drive_link
+
 ## Desenvolvido por
 **Raiane Damascena**  
 Email: [rai.paixao2012@gmail.com](mailto:rai.paixao2012@gmail.com)
